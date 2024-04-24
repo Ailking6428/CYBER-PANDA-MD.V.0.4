@@ -21,9 +21,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['61488878858'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['61488878858'] Change into your number.
-global.ownertag = ["+94772108460"];
+global.Owner = ["+94772108460", "+61488878858"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+61488878858", "+61488878858"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+61488878858"];
 global.OwnerName = "│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋";
 global.BotName = "•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️𝐔𝐌𝐀𝐑🦋𓆪ꪾ❦︎ 𝆺𝅥⃝🍷";
 global.packname = "│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋";                             //Do not change.
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mathara, Sri Lankan";
+global.location = "Karachi, Karachi City, Sindh, Pakistan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
